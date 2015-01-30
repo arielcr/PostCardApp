@@ -13,6 +13,8 @@
 		F908E9D31A79401E006B7A6D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F908E9D21A79401E006B7A6D /* Images.xcassets */; };
 		F908E9D61A79401E006B7A6D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F908E9D41A79401E006B7A6D /* LaunchScreen.xib */; };
 		F908E9E21A79401E006B7A6D /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F908E9E11A79401E006B7A6D /* PostcardTests.swift */; };
+		F908E9EC1A794E90006B7A6D /* Fender-Select-Jazz-Bass1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F908E9EB1A794E90006B7A6D /* Fender-Select-Jazz-Bass1.jpg */; };
+		F908E9EE1A79572B006B7A6D /* stamp-fender.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F908E9ED1A79572B006B7A6D /* stamp-fender.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		F908E9DB1A79401E006B7A6D /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F908E9E01A79401E006B7A6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F908E9E11A79401E006B7A6D /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		F908E9EB1A794E90006B7A6D /* Fender-Select-Jazz-Bass1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Fender-Select-Jazz-Bass1.jpg"; sourceTree = "<group>"; };
+		F908E9ED1A79572B006B7A6D /* stamp-fender.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "stamp-fender.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		F908E9C91A79401E006B7A6D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F908E9ED1A79572B006B7A6D /* stamp-fender.jpg */,
+				F908E9EB1A794E90006B7A6D /* Fender-Select-Jazz-Bass1.jpg */,
 				F908E9CA1A79401E006B7A6D /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -195,6 +201,8 @@
 				F908E9D11A79401E006B7A6D /* Main.storyboard in Resources */,
 				F908E9D61A79401E006B7A6D /* LaunchScreen.xib in Resources */,
 				F908E9D31A79401E006B7A6D /* Images.xcassets in Resources */,
+				F908E9EC1A794E90006B7A6D /* Fender-Select-Jazz-Bass1.jpg in Resources */,
+				F908E9EE1A79572B006B7A6D /* stamp-fender.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
